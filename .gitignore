@@ -1,0 +1,36 @@
+# Python 編譯檔案
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 分發/打包
+dist/
+build/
+*.egg-info/
+
+# 虛擬環境
+venv/
+env/
+.env/
+.venv/
+
+# IDE 相關
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 作業系統檔案
+.DS_Store
+Thumbs.db
+
+# 日誌檔案
+*.log
+
+# 暫存檔案
+*.tmp
+*.temp
+
+# 本地設定檔案
+.env
+.env.local 
